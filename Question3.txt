@@ -1,0 +1,12 @@
+The following are the standard exceptions from System.ApplicationException hierarchy:
+
+1. System.Reflection.InvalidFilterCriteriaException
+2. System.Reflection.TargetException
+3. Microsoft.JScript.NoContextException
+4. Microsoft.JScript.ReturnOutOfFinally
+5. System.Reflection.TargetParameterCountException
+6. System.Threading.WaitHandleCannotBeOpenedException
+7. Microsoft.JScript.BreakOutOfFinally
+8. Microsoft.JScript.ContinueOutOfFinally
+9. Microsoft.JScript.JScriptException
+10. System.Reflection.TargetInvocationException

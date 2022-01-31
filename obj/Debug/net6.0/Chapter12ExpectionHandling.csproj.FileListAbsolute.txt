@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\code learners hub\Assignment\Chapter12ExpectionHandling\bin\Debug\net6.0\Chapter12ExpectionHandling.exe
+C:\Users\User\Desktop\code learners hub\Assignment\Chapter12ExpectionHandling\bin\Debug\net6.0\Chapter12ExpectionHandling.deps.json
+C:\Users\User\Desktop\code learners hub\Assignment\Chapter12ExpectionHandling\bin\Debug\net6.0\Chapter12ExpectionHandling.runtimeconfig.json
+C:\Users\User\Desktop\code learners hub\Assignment\Chapter12ExpectionHandling\bin\Debug\net6.0\Chapter12ExpectionHandling.dll
+C:\Users\User\Desktop\code learners hub\Assignment\Chapter12ExpectionHandling\bin\Debug\net6.0\ref\Chapter12ExpectionHandling.dll
+C:\Users\User\Desktop\code learners hub\Assignment\Chapter12ExpectionHandling\bin\Debug\net6.0\Chapter12ExpectionHandling.pdb
+C:\Users\User\Desktop\code learners hub\Assignment\Chapter12ExpectionHandling\obj\Debug\net6.0\Chapter12ExpectionHandling.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\code learners hub\Assignment\Chapter12ExpectionHandling\obj\Debug\net6.0\Chapter12ExpectionHandling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\code learners hub\Assignment\Chapter12ExpectionHandling\obj\Debug\net6.0\Chapter12ExpectionHandling.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\code learners hub\Assignment\Chapter12ExpectionHandling\obj\Debug\net6.0\Chapter12ExpectionHandling.AssemblyInfo.cs
+C:\Users\User\Desktop\code learners hub\Assignment\Chapter12ExpectionHandling\obj\Debug\net6.0\Chapter12ExpectionHandling.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\code learners hub\Assignment\Chapter12ExpectionHandling\obj\Debug\net6.0\Chapter12ExpectionHandling.dll
+C:\Users\User\Desktop\code learners hub\Assignment\Chapter12ExpectionHandling\obj\Debug\net6.0\ref\Chapter12ExpectionHandling.dll
+C:\Users\User\Desktop\code learners hub\Assignment\Chapter12ExpectionHandling\obj\Debug\net6.0\Chapter12ExpectionHandling.pdb
+C:\Users\User\Desktop\code learners hub\Assignment\Chapter12ExpectionHandling\obj\Debug\net6.0\Chapter12ExpectionHandling.genruntimeconfig.cache

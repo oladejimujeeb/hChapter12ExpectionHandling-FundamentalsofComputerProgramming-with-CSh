@@ -1,0 +1,11 @@
+From both the semantics and the technical meaning, Exception handling is solely the needful prepration for an unwanted
+occurrence in the course of executing a program. 
+Exceptions are also cursors indicating an unexpected interruption by the program code. 
+In instances like this, we create an exception object and call the exception handler code. 
+The execution of an execption handler so that the program code doesnt crash is called exception handling.
+Exception are catched by wrapping the whole code in a try block. that is if there is any exception or if any exception occur
+and then a catch bloock at the to catch the incoming exception so as to avoid the program from breaking. then the measage 
+will be display in the catch block. and it is also possible to inherit Exception from a base class Exception. 
+
+The processes for catching exceptions are as follows:
+Create a try{} - catch(){} - finally{} statement.

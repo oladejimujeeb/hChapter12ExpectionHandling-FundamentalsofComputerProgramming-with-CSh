@@ -1,0 +1,7 @@
+  Advanteges of using Exception
+
+1: it prevent the program from breaking.
+2: it helps to know where an error is comming from.
+3: it also helps to come out with a perfect program.
+4: it brings smplicity to the code.
+5: it helps in the reusesablity of code.
